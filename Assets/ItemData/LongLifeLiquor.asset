@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 203155f508b6642439d31b31a4abb04d, type: 3}
+  m_Name: LongLifeLiquor
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 830adc79c5325954e9f662bd08a2e87d, type: 3}
+  itemName: LongLifeLiquor
+  owner: Yagokoro Eirin
+  description: A more acceptable name of the liquor of immortality.Men always judge
+    a book by its cover.
+  ability: Cost two spellcards instead of one life when getting hit.
+  special: When there's only one spellcard left, it will cost one and only one instead
+    of two.
+  number: 401
+  type: 4
+  price: 300
+  quantity: 5
